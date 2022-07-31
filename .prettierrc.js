@@ -1,4 +1,4 @@
 /** @type {import('prettier').Options}*/
 module.exports = {
-  printWidth: 120
-}
+  printWidth: 120,
+};
