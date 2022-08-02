@@ -1,0 +1,7 @@
+.expo/
+.next/
+examples/
+node_modules/
+out/
+public/
+next-env.d.ts
